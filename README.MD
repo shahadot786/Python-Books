@@ -694,11 +694,12 @@ We welcome contributions from everyone! Here's how:
 
 ## 📊 Repository Stats
 
+- **📂 README Files**: 400+ comprehensive guides
 - **📚 Books**: 15+ Categorized Books
 - **🎥 Videos**: Curated playlists
 - **💻 Projects**: 100+ Hands-on projects
 - **📝 Exercises**: 500+ Practice problems
-- **🎯 Career Paths**: 10+ Complete roadmaps
+- **🎯 Career Paths**: 12 Complete roadmaps
 - **👥 Contributors**: Growing community
 
 ---
@@ -754,6 +755,6 @@ Track your journey:
 
 **Happy Learning! Let's Build Something Amazing! 🚀**
 
-_Last Updated: November 2025_
+_Last Updated: January 2026_
 
 </div>

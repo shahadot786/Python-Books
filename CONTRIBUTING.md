@@ -33,9 +33,17 @@ Thank you for your interest in contributing! 🎉
 - Example: `python-crash-course-v2.pdf`
 
 ### Folder Organization
-- Follow existing structure
+- Follow existing structure:
+  ```
+  [Topic-Folder]/
+  ├── README.md     # Topic overview
+  ├── Books/README.md
+  ├── Videos/README.md
+  └── Projects/README.md
+  ```
 - Don't create new top-level folders without discussion
 - Keep related files together
+- Every folder must have a README.md
 
 ### Quality Standards
 - Resources should be beginner-friendly
